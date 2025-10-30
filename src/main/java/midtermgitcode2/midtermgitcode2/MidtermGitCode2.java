@@ -11,6 +11,6 @@ package midtermgitcode2.midtermgitcode2;
 public class MidtermGitCode2 {
 
     public static void main(String[] args) {
-        System.out.println("MidtermGit Test rev2");
+        System.out.println("MidtermGit Test rev3");
     }
 }
